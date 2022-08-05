@@ -1,0 +1,49 @@
+@font-face {
+  font-family: 'Google Sans';
+  src: url('/font/GoogleSans-Black.eot');
+  src: url('/font/GoogleSans-Black.eot?#iefix') format('embedded-opentype'),
+    url('/font/GoogleSans-Black.woff2') format('woff2'),
+    url('/font/GoogleSans-Black.woff') format('woff'),
+    url('/font/GoogleSans-Black.ttf') format('truetype'),
+    url('/font/GoogleSans-Black.svg#GoogleSans-Black') format('svg');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Google Sans';
+  src: url('/font/GoogleSans-Regular.eot');
+  src: url('/font/GoogleSans-Regular.eot?#iefix') format('embedded-opentype'),
+    url('/font/GoogleSans-Regular.woff2') format('woff2'),
+    url('/font/GoogleSans-Regular.woff') format('woff'),
+    url('/font/GoogleSans-Regular.ttf') format('truetype'),
+    url('/font/GoogleSans-Regular.svg#GoogleSans-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Google Sans';
+  src: url('/font/GoogleSans-Bold.eot');
+  src: url('/font/GoogleSans-Bold.eot?#iefix') format('embedded-opentype'),
+    url('/font/GoogleSans-Bold.woff2') format('woff2'),
+    url('/font/GoogleSans-Bold.woff') format('woff'),
+    url('/font/GoogleSans-Bold.ttf') format('truetype'),
+    url('/font/GoogleSans-Bold.svg#GoogleSans-Bold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Google Sans';
+  src: url('/font/GoogleSans-MediumItalic.eot');
+  src: url('/font/GoogleSans-MediumItalic.eot?#iefix')
+      format('embedded-opentype'),
+    url('/font/GoogleSans-MediumItalic.woff2') format('woff2'),
+    url('/font/GoogleSans-MediumItalic.woff') format('woff'),
+    url('/font/GoogleSans-MediumItalic.ttf') format('truetype'),
+    url('/font/GoogleSans-MediumItalic.svg#GoogleSans-MediumItalic')
+      format('svg');
+  font-weight: 500;
+  font-style: italic;
+}

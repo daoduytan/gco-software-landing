@@ -1,0 +1,5 @@
+.bg {
+  background: url('/bg-modal.jpg');
+
+  @apply p-16 bg-cover hidden md:block;
+}

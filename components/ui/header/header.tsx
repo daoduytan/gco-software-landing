@@ -1,13 +1,12 @@
-import { Container } from "../container";
-import { Logo } from "../logo";
+import { Container } from '../container';
+import { Logo } from '../logo';
 
 const Header = () => {
   return (
     <header className="w-full">
       <Container>
-        <div className="flex justify-between">
+        <div className="flex justify-between py-8">
           <Logo />
-          <nav>Menu</nav>
         </div>
       </Container>
     </header>

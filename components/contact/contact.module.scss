@@ -1,0 +1,9 @@
+.contact {
+  background: url('/bg-footer.jpg');
+  @apply bg-cover overflow-hidden;
+}
+.contactForm {
+  @apply border rounded p-10 w-full max-w-lg;
+  border-color: #5692ff;
+  background: #558aecab;
+}

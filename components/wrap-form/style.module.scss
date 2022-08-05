@@ -1,0 +1,9 @@
+.wrapForm {
+  // background: linear-gradient(
+  //   64.64deg,
+  //   rgba(12, 63, 158, 0.7) 1.22%,
+  //   rgba(11, 63, 160, 0.4) 96.69%
+  // );
+  background: bg-blue-100;
+  @apply bg-blue-800 rounded-lg p-10 w-full max-w-md;
+}

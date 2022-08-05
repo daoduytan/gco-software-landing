@@ -1,0 +1,33 @@
+.aboutContent {
+  @apply max-w-sm md:max-w-full mx-auto grid gap-4 text-white text-center md:text-left;
+
+  h1 {
+    @apply font-bold text-5xl md:text-4xl text-white md:text-left;
+  }
+
+  p {
+    @apply text-lg;
+  }
+}
+
+.aboutItems {
+  @apply grid grid-cols-2 gap-4;
+}
+
+.aboutItem {
+  @apply border border-blue-400 text-white rounded-lg text-center grid gap-2 px-2 py-5  transition-all hover:scale-105 transition-all;
+
+  background: linear-gradient(
+    64.64deg,
+    rgba(255, 255, 255, 0.35) 1.22%,
+    rgba(255, 255, 255, 0.15) 96.69%
+  );
+}
+
+.number {
+  @apply text-white text-3xl font-bold;
+}
+
+.description {
+  @apply text-sm;
+}
